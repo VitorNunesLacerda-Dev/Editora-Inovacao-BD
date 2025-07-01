@@ -40,7 +40,7 @@ O banco de dados foi criado para gerenciar informações sobre livros, autores e
 
 ## Autor
 
-Vitor Nunes Lacerda
+VitorNunesLacerda-Dev
 
 ## Licença
 
