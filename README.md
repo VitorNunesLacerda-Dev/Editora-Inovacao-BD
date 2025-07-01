@@ -42,7 +42,7 @@ O banco de dados foi criado para gerenciar informações sobre livros, autores e
 
 GitHub:[Vitor Nunes Lacerda](https://github.com/VitorNunesLacerda-Dev)
 
-LinkedIn:[LinkedIn](https://www.linkedin.com/in/vitor-nunes-lacerda/) | E-mail:[vitor.n.lacerda@gmail.com](vitor.n.lacerda@gmail.com)
+LinkedIn:[LinkedIn](https://www.linkedin.com/in/vitor-nunes-lacerda/) | E-mail:vitor.n.lacerda@gmail.com
 
 
 ## Licença
